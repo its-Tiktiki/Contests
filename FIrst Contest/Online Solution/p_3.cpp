@@ -8,6 +8,7 @@ int main(){
 		int N;
 		cin >> N;
 		string s;
+		cout << "Enter a string: ";
 		cin >> s;
 
         long long decimal_num = 0;
