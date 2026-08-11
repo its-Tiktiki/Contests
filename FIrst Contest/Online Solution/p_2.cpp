@@ -5,6 +5,7 @@ int main(){
 	cin >> t;
 	while(t--){
 		int num;
+		cout << "enter a number: ";
 		cin >> num;
 		long long ans = 1;
 		for(int j = 0; j < num; j++){
