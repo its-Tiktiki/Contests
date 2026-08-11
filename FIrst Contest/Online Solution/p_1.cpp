@@ -9,6 +9,7 @@ char upper(char c){
 int main(){
     while(true){
         string word;
+        cout << "Enter a word: ";
         cin >> word;
 
         if(word.size() == 0){
