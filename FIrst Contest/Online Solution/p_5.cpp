@@ -3,6 +3,7 @@ using namespace std;
 
 int main(){
 	int a, b, c;
+    cout << "Enter there space-sepereted nummber: ";
 	cin >> a >> b >> c;
     int cth_num;
     for(int i = 2; c > 0; i++){
