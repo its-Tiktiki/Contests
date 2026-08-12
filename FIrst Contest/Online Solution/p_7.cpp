@@ -2,6 +2,7 @@
 using namespace std;
 int main(){
     string s;
+    cout << "Enter a string: ";
     cin >> s;
     for(int i = 0; i < s.size(); i++){
         if(s[i] >= 'a' && s[i] <= 'z'){
