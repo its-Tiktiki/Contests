@@ -2,6 +2,7 @@
 using namespace std;
 int main(){
     int t;
+    cout << "Enter test case: ";
     cin >> t;
     while(t--){
         int n;
